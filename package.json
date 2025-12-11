@@ -1,0 +1,9 @@
+{
+  "name": "terminal-chat",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Chat project designed to learn more about TCP connections.",
+  "main": "./src/server.js",
+  "author": "rapon1kt",
+  "license": "MIT"
+}
