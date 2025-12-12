@@ -4,3 +4,4 @@ yarn.lock
 roadmap.md
 dist
 .env
+/generated/prisma
