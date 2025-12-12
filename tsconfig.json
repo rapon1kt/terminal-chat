@@ -12,5 +12,5 @@
       "@/*": ["*"]
     }
   },
-  "include": ["src", "tests"]
+  "include": ["src", "tests", "src/config/prisma/lib"]
 }
