@@ -5,7 +5,8 @@
   "description": "Chat project designed to learn more about TCP connections.",
   "main": "./src/server.ts",
   "scripts": {
-    "dev": "tsnd --respawn src/server.ts"
+    "dev": "tsnd --respawn src/server.ts",
+    "build": "tsc"
   },
   "author": "rapon1kt",
   "license": "MIT",
