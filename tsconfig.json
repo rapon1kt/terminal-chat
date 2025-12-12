@@ -1,16 +1,16 @@
 {
-	"compilerOptions": {
-		"outDir": "dist",
-		"module": "commonjs",
-		"target": "esnext",
-		"esModuleInterop": true,
-		"sourceMap": true,
-		"baseUrl": "src",
-		"rootDirs": ["src", "tests"],
-		"paths": {
-			"@/tests/*": ["../tests/*"],
-			"@/*": ["*"]
-		}
-	},
-	"include": ["src", "tests"]
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "esnext",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "baseUrl": "src",
+    "rootDirs": ["src", "tests"],
+    "paths": {
+      "@/tests/*": ["../tests/*"],
+      "@/*": ["*"]
+    }
+  },
+  "include": ["src", "tests"]
 }
